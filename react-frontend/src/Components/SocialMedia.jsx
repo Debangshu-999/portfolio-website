@@ -15,7 +15,7 @@ const SocialMedia = () => (
       <BsGithub />
     </div>
     <div>
-      <a href={resume} download="resume">
+      <a href="" download="resume">
         <FaFileDownload />
       </a>
     </div>
